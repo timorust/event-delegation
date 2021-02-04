@@ -1,0 +1,17 @@
+html, body {
+    height: 100%;
+
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    flex-direction: column;
+}
+
+#wrapper {
+    background: #caf0f8;
+    width: 400px;
+    height: 400px;
+}
